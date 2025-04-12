@@ -99,16 +99,19 @@ The Objective of this analysis is to give insights and possible solutions that w
 
 `Improve Customer Retention`
 - High Exit Rates in France and Spain (84% & 83%) indicate a serious retention issue.
+
 Action: Conduct exit surveys to identify dissatisfaction drivers.
  Follow-up: Implement loyalty programs or personalized customer outreach to reduce churn.
 
  `Targeted Campaigns by Geography`
 - Since France holds ~50% of the customer base, marketing efforts here will have the greatest impact.
-Action: Design localized campaigns focusing on the needs of French customers.
+
+ Action: Design localized campaigns focusing on the needs of French customers.
 Spain: Since 50% of high-balance customers are from Spain, consider premium or wealth management services targeted at this segment.
 
 `Engagement Based on Tenure`
 - Segmenting by short-, medium-, and long-term tenure can guide lifecycle marketing.
+
 Action:
  Short-term customers may need onboarding support.
  Medium-term may benefit from upselling or cross-selling.
@@ -116,5 +119,6 @@ Action:
 
 `Focus on Inactive Members`
 - Around 48.5% of customers are inactive.
+
 Action: Launch reactivation campaigns (e.g., special offers, check-ins).
         Personalize outreach based on prior behavior or account activity.
